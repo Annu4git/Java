@@ -1,0 +1,25 @@
+Best practices used for Object Oriented Software developers.
+
+Gang of Four : 1994, 4 developers Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, published a book, Design Patterns - Elements of Reusable Object Oriented Software.
+ 
+Principles of Object Oriented Programming :
+1. Program to an interface not an implementation.
+2. Favor object composition over inheritance.
+
+Usage of design pattern : 
+1. Common platform for developers.
+2. Best practices.
+
+Types of Design Patterns :
+1. Creational Patterns : A way to create object while hiding the creation logic, rather than instantiating objects directly using new operator.
+2. Structural Patterns : These concern class and object composition. Concept of inheritance is used to compose interfaces.
+3. Behavioral Patterns : Concerns with communication between objects.
+4. J2EE Patterns : These design patterns are specifically concerned with the presentation tier.
+
+Design Patterns : 
+
+1. Factory Pattern : focus on creation so creational pattern. 
+e.g. Shape interface < Circle class < Shape factory < App
+
+2. 
+
