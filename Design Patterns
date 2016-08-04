@@ -21,5 +21,16 @@ Design Patterns :
 1. Factory Pattern : focus on creation so creational pattern. 
 e.g. Shape interface < Circle class < Shape factory < App
 
-2. 
+2. Abstract Factory Pattern : Same as Factory Pattern with another factory over different factories. Creational pattern.
+e.g. : Shape interface < Circle class & Color interface < Green class
+       Shape factory & Color factory
+            Abstract Factory
+            Factory Producer
+            App
 
+3. Singleton Pattern : also focus on creation of object, single object. Private constructor and static method which returns SINGLE object of the class.
+e.g. : Class < App
+
+4. Builder Pattern : Builds complex objects using simple object. Creational.
+
+5. 
