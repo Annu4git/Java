@@ -39,3 +39,18 @@ e.g. : Class < App
 Real life example : card reader, phone adapter (Charger) etc...
 e.g. :
 
+7. Bridge 
+
+8. Filter
+
+9. Composite
+
+10. Decorator
+
+11. Facade
+
+12. Flyweight
+
+13. Proxy
+
+14. Chain of responsibility pattern
