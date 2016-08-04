@@ -33,4 +33,9 @@ e.g. : Class < App
 
 4. Builder Pattern : Builds complex objects using simple object. Creational.
 
-5. 
+5. Prototype Pattern : Creating duplicate object while keeping performance in mind. Creational.
+
+6. Adapter Pattern : Works as a bridge between two incompatible interfaces. It is a structural pattern as it combines two interfaces.
+Real life example : card reader, phone adapter (Charger) etc...
+e.g. :
+
