@@ -1,0 +1,5 @@
+1. Link which I liked : http://www.c-sharpcorner.com/UploadFile/5fd9bd/object-copy-using-dozer-framework-in-java/
+
+How to use Dozer :
+
+2. Dozer uses Setters and Getters to bind data variables inside Class, as variables itself can be private.
